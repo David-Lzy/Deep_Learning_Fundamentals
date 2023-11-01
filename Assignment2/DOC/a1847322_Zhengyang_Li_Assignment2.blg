@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: a1847322_Zhengyang_Li_Assignment2.aux
+The style file: ieeenat_fullname.bst
+Database file #1: main.bib
+Warning--empty journal in He16
+Warning--empty journal in Krizhevsky12
+Warning--empty journal in Radford18
+Warning--empty journal in Radford19
+Warning--empty journal in Vaswani17
+You've used 11 entries,
+            2708 wiz_defined-function locations,
+            735 strings with 7547 characters,
+and the built_in function-call counts, 6238 in all, are:
+= -- 532
+> -- 483
+< -- 6
++ -- 161
+- -- 150
+* -- 530
+:= -- 967
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 83
+chr.to.int$ -- 11
+cite$ -- 27
+duplicate$ -- 255
+empty$ -- 404
+format.name$ -- 165
+if$ -- 1287
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 10
+newline$ -- 63
+num.names$ -- 44
+pop$ -- 176
+preamble$ -- 1
+purify$ -- 72
+quote$ -- 0
+skip$ -- 225
+stack$ -- 0
+substring$ -- 181
+swap$ -- 42
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 121
+warning$ -- 5
+while$ -- 47
+width$ -- 0
+write$ -- 140
+(There were 5 warnings)
