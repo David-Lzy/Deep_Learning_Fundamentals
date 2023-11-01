@@ -1,0 +1,6 @@
+PWD /homes/David_Li/Mega/University_of_Adelaide/Works/Courses/4339_COMP_SCI_7318_Deep_Learning_Fundamentals/Assignment1/DOC
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+OUTPUT texput.log
